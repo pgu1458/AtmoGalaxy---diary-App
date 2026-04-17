@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="AtmoGalaxy" />
+    <meta name="theme-color" content="#060d1f" />
+    <title>AtmoGalaxy</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            background: #060d1f;
+        }
+
+        html {
+            background: #060d1f;
+            height: 100%;
+        }
+
+        body {
+            background: #060d1f;
+            overflow: hidden;
+            /* 100vh fallback → -webkit-fill-available가 마지막 적용 (Safari 주소창 제외) */
+            min-height: 100vh;
+            height: 100vh;
+            height: -webkit-fill-available;
+        }
+
+        #root {
+            background: #060d1f;
+            height: 100%;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>

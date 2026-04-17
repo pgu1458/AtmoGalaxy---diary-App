@@ -1,0 +1,40 @@
+/* src/index.css (�ֻ���̳� �ϴܿ� �߰�) */
+
+/* �߱� ��ü �޽� �ִϸ��̼� ���� */
+@keyframes nationalPulse {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.8); /* �Ķ��� �߱� */
+    }
+
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 15px rgba(59, 130, 246, 0); /* �߱� Ȯ�� */
+    }
+
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
+    }
+}
+
+.national-marker-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: auto; /* ���콺 �̺�Ʈ Ȱ��ȭ */
+}
+
+/* ���� ����̴� ��ü */
+.national-marker-core {
+    width: 16px; /* ũ�� �ణ ��� (���μ� ����) */
+    height: 16px;
+    border-radius: 50%;
+    background-color: #ffffff; /* �ٽ� �ھ�� ������� (���μ� �ش�ȭ) */
+    border: 3px solid #3b82f6; /* �Ķ��� �׵θ� */
+    box-shadow: 0 0 15px #3b82f6; /* ������ �Ķ� �߱� */
+    /* �ִϸ��̼� ���� */
+    animation: nationalPulse 2.5s infinite; /* 2.5�� �ֱ�� ���� �ݺ� */
+    transition: opacity 0.3s, transform 0.3s;
+    cursor: pointer;
+}
