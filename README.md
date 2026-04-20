@@ -87,4 +87,4 @@ npm install
 npm run dev
 ```
 
-`.env` 파일에 아래 키가 필요합니다.
+`.env` 파일에 아래 키를 따로 입력해야 합니다.
