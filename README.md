@@ -22,7 +22,7 @@
 <!-- 모바일 앱 전체 화면 스크린샷 (세로형 나란히) -->
 | 메인 | 일기 작성 | 버킷리스트 | 통계 |
 |------|-----------|-----------|------|
-| <img width="300" height="300" alt="메인" src="https://github.com/user-attachments/assets/3e275288-341b-4247-89f6-90c1dac4e839" />
+| <img width="300" height="450" alt="메인" src="https://github.com/user-attachments/assets/3e275288-341b-4247-89f6-90c1dac4e839" />
  | ![](screenshots/app_diary.png) | ![](screenshots/app_bucket.png) | ![](screenshots/app_stats.png) |
 
 ---
