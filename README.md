@@ -38,28 +38,36 @@
 지도에 표시된 색상이 각 도시의 날씨 상태를 나타낸다는 것을 안내합니다. 줌 레벨에 따라 히트맵과 마커가 자동으로 전환되는 것도 이 단계에서 설명합니다.
 
 <!-- 튜토리얼 Step 1 스크린샷 -->
-<img width="300" height="500" alt="튜토리얼1" src="https://github.com/user-attachments/assets/fdcf8fa5-7a6c-462b-8666-4777e1028752" />
+<img width="300" height="550" alt="튜토리얼1" src="https://github.com/user-attachments/assets/fdcf8fa5-7a6c-462b-8666-4777e1028752" />
 
 ### Step 2 — 여행 기록 방법
 
 지도를 탭해서 여행 일기를 기록하는 방법을 안내합니다. 탭하면 해당 위치의 날씨가 자동으로 불러와진다는 것을 설명합니다.
 
 <!-- 튜토리얼 Step 2 스크린샷 -->
-![튜토리얼 2 - 기록 방법](screenshots/tutorial_02.png)
+<img width="300" height="500" alt="튜2" src="https://github.com/user-attachments/assets/13aceae3-782a-485a-97af-eab8c9992748" />
 
 ### Step 3 — 바텀 시트 사용법
 
 하단 패널을 드래그해서 높이를 조절하고, 저장된 기록 목록을 확인하는 방법을 안내합니다.
 
 <!-- 튜토리얼 Step 3 스크린샷 -->
-![튜토리얼 3 - 바텀 시트](screenshots/tutorial_03.png)
+<img width="300" height="500" alt="튜3" src="https://github.com/user-attachments/assets/1375ac25-a069-48d0-8a01-29b74cb50211" />
 
 ### Step 4 — AI 버킷리스트 및 기타 기능
 
 AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능의 위치와 사용 방법을 안내합니다.
 
 <!-- 튜토리얼 Step 4 스크린샷 -->
-![튜토리얼 4 - 추가 기능](screenshots/tutorial_04.png)
+<img width="300" height="500" alt="튜토리얼4" src="https://github.com/user-attachments/assets/3d50e9b8-5b09-4fb6-be0e-3fe57b7153b9" />
+
+
+
+### Step 5 — 
+
+AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능의 위치와 사용 방법을 안내합니다.
+
+
 
 ---
 
