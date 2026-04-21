@@ -127,7 +127,12 @@ Google Gemini 1.5 Flash API를 연동해 나이대에 맞는 버킷리스트를 
 - Gemini API 할당량 초과 시 자체 폴백 DB로 자동 전환되어 서비스 중단 없이 동작
 
 <!-- AI 버킷리스트 시연 스크린샷 -->
+
+
 <img width="300" height="500" alt="버킷리스트" src="https://github.com/user-attachments/assets/a3a8d0bb-8775-4358-8e8b-ca9aaf1208e8" />
+
+
+
 
 ---
 
@@ -140,7 +145,9 @@ Google Gemini 1.5 Flash API를 연동해 나이대에 맞는 버킷리스트를 
 - 추첨 결과 도시로 지도가 자동 이동
 
 <!-- 랜덤 추첨 시연 스크린샷 -->
-![랜덤 여행 추첨](screenshots/random_travel.png)
+| 전체 | 한국 | 일본 |
+|------|-----------|-----------|
+|<img width="300" height="500" alt="랜점장소 전체" src="https://github.com/user-attachments/assets/5296adf2-45d0-4bd2-95b9-65898d714191" />| <img width="300" height="500" alt="랜덤 장소 한국" src="https://github.com/user-attachments/assets/89d4acad-e5f2-44a9-b448-75d6b03f80f0" /> | <img width="300" height="500" alt="랜덤 장소 일본" src="https://github.com/user-attachments/assets/871ccda3-1059-481b-a7c3-4b5fce085141" /> |
 
 ---
 
@@ -154,7 +161,7 @@ Google Gemini 1.5 Flash API를 연동해 나이대에 맞는 버킷리스트를 
 - 날씨 패턴 기반 캐릭터 카드 (예: 맑은 날 많으면 "햇살 요정")
 
 <!-- 통계 화면 시연 스크린샷 -->
-![여행 통계](screenshots/stats.png)
+<img width="300" height="500" alt="통계" src="https://github.com/user-attachments/assets/d8f89821-3e00-4c18-a5b1-254ad4b8f294" />
 
 ---
 
@@ -168,7 +175,7 @@ Google Gemini 1.5 Flash API를 연동해 나이대에 맞는 버킷리스트를 
 - 공유된 링크로 접속하면 해당 기록의 위치로 지도가 자동 이동
 
 <!-- 공유 기능 시연 스크린샷 -->
-![공유 기능](screenshots/share.png)
+<img width="300" height="500" alt="공유" src="https://github.com/user-attachments/assets/abbcc6a4-65aa-4c33-9297-b26d2d84aab1" />
 
 ---
 
