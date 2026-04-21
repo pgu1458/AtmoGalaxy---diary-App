@@ -63,9 +63,12 @@ AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능
 
 
 
-### Step 5 — 
+### Step 5 — 목표를 체크하며 인생을 설계하세요
 
-AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능의 위치와 사용 방법을 안내합니다.
+버킷리스트에서 목표를 완료로 체크하면 지도 위 해당 핀이 초록색으로 빛나며 성장 과정을 지도 위에 새겨나갈 수 있다는 것을 안내합니다. 튜토리얼의 마지막 단계로, 이 화면에서 "AtmoGalaxy 시작하기" 버튼을 누르면 본격적으로 앱이 시작됩니다.
+
+
+<img width="300" height="500" alt="튜토리얼5" src="https://github.com/user-attachments/assets/73171501-1cc4-4051-a435-0cb9224cfc68" />
 
 
 
@@ -88,7 +91,7 @@ AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능
 줌아웃 시에는 히트맵으로, 줌인 시에는 도시별 개별 마커로 자동 전환되어 정보 과부하 없이 직관적으로 현황을 파악할 수 있습니다.
 
 <!-- 날씨 히트맵 시연 스크린샷 -->
-![날씨 히트맵](screenshots/heatmap.png)
+<img width="300" height="500" alt="날씨 마커확인" src="https://github.com/user-attachments/assets/d7143f77-e887-437f-b42e-744c54dc5f27" />
 
 ---
 
@@ -102,7 +105,7 @@ AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능
 - 저장된 일기는 바텀 시트에서 목록으로 확인
 
 <!-- 일기 작성 시연 스크린샷 -->
-![여행 일기](screenshots/diary.png)
+<img width="300" height="500" alt="내 기록저장" src="https://github.com/user-attachments/assets/5a68916e-23af-4d31-beae-6010550d41d1" />
 
 ---
 
@@ -111,7 +114,7 @@ AI 버킷리스트 추천, 랜덤 여행 추첨, 통계 화면 등 추가 기능
 Mapbox GL JS의 3D 레이어를 활용해, 지도를 확대하면 건물이 입체적으로 솟아오릅니다. 내가 기록한 장소를 3D 뷰로 둘러볼 수 있습니다.
 
 <!-- 3D 뷰 시연 스크린샷 -->
-![3D 도시 뷰](screenshots/3d_view.png)
+<img width="300" height="500" alt="3D" src="https://github.com/user-attachments/assets/92560ef1-7cff-4f58-afe1-21fef73fc18c" />
 
 ---
 
@@ -124,7 +127,7 @@ Google Gemini 1.5 Flash API를 연동해 나이대에 맞는 버킷리스트를 
 - Gemini API 할당량 초과 시 자체 폴백 DB로 자동 전환되어 서비스 중단 없이 동작
 
 <!-- AI 버킷리스트 시연 스크린샷 -->
-![AI 버킷리스트](screenshots/bucketlist.png)
+<img width="300" height="500" alt="버킷리스트" src="https://github.com/user-attachments/assets/a3a8d0bb-8775-4358-8e8b-ca9aaf1208e8" />
 
 ---
 
