@@ -22,7 +22,7 @@
 <!-- 모바일 앱 전체 화면 스크린샷 (세로형 나란히) -->
 | 메인 | 일기 작성 | 버킷리스트 | 통계 |
 |------|-----------|-----------|------|
-| <img width="250" height="500" alt="메인" src="https://github.com/user-attachments/assets/3e275288-341b-4247-89f6-90c1dac4e839" />| <img width="250" height="500" alt="내 기록저장" src="https://github.com/user-attachments/assets/a26d7d76-7114-4b56-ac53-003bc1808ce7" /> | <img width="250" height="500" alt="버킷" src="https://github.com/user-attachments/assets/d3441c72-4b4b-4093-a9e2-70fa2d177368" /> | <img width="250" height="500" alt="통계" src="https://github.com/user-attachments/assets/45cd5747-cfa3-47dc-a47b-afcf2f9c5ed3" /> |
+| <img width="250" height="500" alt="메인" src="https://github.com/user-attachments/assets/3e275288-341b-4247-89f6-90c1dac4e839" />| <img width="250" height="500" alt="내 기록저장" src="https://github.com/user-attachments/assets/a26d7d76-7114-4b56-ac53-003bc1808ce7" /> | <img width="250" height="500" alt="버킷" src="https://github.com/user-attachments/assets/c0fd8743-ee27-460e-8c30-e4b2a3d0e83b" /> | <img width="250" height="500" alt="통계" src="https://github.com/user-attachments/assets/45cd5747-cfa3-47dc-a47b-afcf2f9c5ed3" /> |
 
 
 
