@@ -38,7 +38,7 @@
 지도에 표시된 색상이 각 도시의 날씨 상태를 나타낸다는 것을 안내합니다. 줌 레벨에 따라 히트맵과 마커가 자동으로 전환되는 것도 이 단계에서 설명합니다.
 
 <!-- 튜토리얼 Step 1 스크린샷 -->
-![튜토리얼 1 - 히트맵 안내](screenshots/tutorial_01.png)
+<img width="800" height="600" alt="튜토리얼1" src="https://github.com/user-attachments/assets/fdcf8fa5-7a6c-462b-8666-4777e1028752" />
 
 ### Step 2 — 여행 기록 방법
 
