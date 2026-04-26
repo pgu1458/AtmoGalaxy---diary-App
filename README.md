@@ -1,7 +1,7 @@
 # 🌍 AtmoGalaxy
 
 > 지도 위에 날씨와 여행 기록을 남기는 PWA 앱  
-> React + TypeScript + Mapbox GL JS
+> React + TypeScript + Mapbox GL JS + Gemini API
 
 🔗 [배포 링크](https://rainbow-lollipop-859583.netlify.app)
 
